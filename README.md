@@ -1,5 +1,5 @@
 # image-to-ascii
-conver image file to 2 dotted ascii art
+convert image file to 2 dotted ascii art
 image-to-ascii
 画像ファイルをテキストアートに変換します
 
